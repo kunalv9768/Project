@@ -16,19 +16,19 @@ smtp_port = 587
 smtp_server = "smtp.gmail.com"
 
 # email address from we sent the email
-email_from = "areakingapp@gmail.com"
+email_from = "areakingpp@gmail.com"
 
-#email_list = ["areakingpanna@gmail.com","hemantkurmi1998@gmail.com"]
+#email_list = ["areakingpnna@gmail.com","hemantkurmi198@gmail.com"]
 
 
 # authuntication password for the login of the email
-PASSWORD = 'vbwmytcpdbajzohe'
+PASSWORD = 'vbwmmytcpdbajzohe'
 
 # subject of the email
 subject = "Email with attachments"
 
 
-#message = 'Hey , I am Patel'
+#message = 'Hey , I am Kunal Varma
 
 
 # fetch data from the json file
